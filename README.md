@@ -1,2 +1,2 @@
 #web_store
-![示例图片](http://git.oschina.net/xrz/web_store/blob/master/image/20170705/stm_ic.jpg)
+![示例片](https://github.com/XiaoXiaoXian/web_store/blob/master/image/20170705/stm_ic.jpg?raw=true)
